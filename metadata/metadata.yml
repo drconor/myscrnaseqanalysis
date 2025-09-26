@@ -1,2 +1,5 @@
 metadata_version: 1
 name: scRNA_seq
+description: test capsule
+authors:
+- name: conor
